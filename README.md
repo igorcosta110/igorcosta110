@@ -1,20 +1,47 @@
-- # 👋 Olá, meu nome é Igor, sou desenvolvedor web front-end em ascensão!
-- 👀 Eu amo aprender coisas novas e pesquiso muito por conta própria. Me considero uma pessoa criativa, curiosa e sempre gostei de tecnologia, por isso me encontrei no desenvolvimento de software. É uma área incrível onde eu posso expressar criatividade, invertar coisas novas, usar tecnologia de uma forma positiva e ainda ganhar dinheiro com isso.😅😅😅
+# 👋 Olá, eu sou o Igor Costa
+
+🎯 **Desenvolvedor Web Front-end em formação**  
+Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de soluções criativas. Atualmente cursando **Tecnologia em Sistemas para Internet**, com foco em desenvolvimento front-end.
+Tenho perfil curioso, gosto de aprender de forma autodidata e acredito que a tecnologia pode ser usada de maneira positiva para transformar ideias em realidade. 🚀
+
+---
+
+## 🛠️ Tecnologias que utilizo
+- **Frontend:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+- **Banco de dados:** 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 
-- 🌱 Atualmente tenho focado bastante no front-end, mas tenho interesse no futuro me expandir e aprender novas áreas. Estou no segundo ano do curso de tecnologia em sistemas para internet
+## 📚 Em aprendizado
+- **Frontend avançado:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- **Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-## Tenho conhecimentos em: 
-![html-5](https://user-images.githubusercontent.com/32373459/164539356-2aa31cd9-87a3-4e89-8bb4-3218bd552f81.png)![css-3](https://user-images.githubusercontent.com/32373459/164539384-a771759a-3443-4822-8395-a28342fedd1e.png)
-![js](https://user-images.githubusercontent.com/32373459/164539403-c917f05d-066a-497a-8215-d194a6b2b3df.png)
-![sass](https://user-images.githubusercontent.com/32373459/164539432-4d0c2152-8af2-461e-9374-d5a4fc0e2cb6.png)
-![bootstrap](https://user-images.githubusercontent.com/32373459/164539482-2a486d94-6341-40d6-8d57-5ce52a2a7bb1.png)
-![mysql](https://user-images.githubusercontent.com/32373459/164539771-491643ff-8f04-4605-9eed-540be3c476c4.png)
+---
 
-## Estou estudando: 
-![react](https://user-images.githubusercontent.com/32373459/164539591-ff745e8d-1f05-4232-9f09-1d4e1fc4e758.png)
-![nodejs](https://user-images.githubusercontent.com/32373459/164539603-d332e5a6-1c65-4ca6-8b7c-7bbe48a49925.png)
-![wordpress](https://user-images.githubusercontent.com/32373459/164539612-82e46c67-0437-49eb-9fe6-53dc3d602b26.png)
+## 📈 Objetivos
+- Consolidar meus conhecimentos em **front-end** e avançar para **full-stack**.  
+- Participar de projetos que envolvam inovação, boas práticas e trabalho em equipe.  
+- Estar sempre aberto a aprender novas ferramentas e metodologias.  
+
+---
+
+## 📫 Contato
+- [LinkedIn](www.linkedin.com/in/dev-igor-costa)  
+- [E-mail](mailto:rochadacostaigor@gmail.com)  
+
+---
+✨ Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento de software.
+
 <!---
 
 igorcosta110/igorcosta110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
